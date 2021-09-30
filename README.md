@@ -17,3 +17,5 @@
 ৩. <a href="http://shoshikkha.com/archives/1394">সি টিউটোরিয়াল</a> - মুনতাসির ওয়াহেদ।
 
 ৩. <a href="https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz">সি ভিডিও টিউটোরিয়াল</a> - আনিসুল ইসলাম। 
+
+৪. <a href="https://youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy">সি ভিডিও টিউটোরিয়াল</a> - হাসান মুহাম্মাদ নাইম। 
